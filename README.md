@@ -1,2 +1,2 @@
 # toy_ds_project
-Data science 100 workscheet version control repository
+project creation date: February 5, 2026
